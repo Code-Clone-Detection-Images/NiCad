@@ -1,6 +1,6 @@
 .PHONY: build save
 
-NAME:=alpine-nicad
+NAME:=fedora-nicad
 
 #  --no-cache
 build: Dockerfile
